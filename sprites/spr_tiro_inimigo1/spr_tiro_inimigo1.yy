@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"08bf86e4-af56-480c-8d9d-7998271309f4","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "inimigo",
+    "path": "folders/Sprites/inimigo.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_tiro_inimigo1",

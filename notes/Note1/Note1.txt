@@ -23,6 +23,7 @@
 4.3 - fazendo ele ir para baixo OK
 
 5 - fazendo o inimigo 01 atirar
-5.1 - importando sprite do tiro
-5.2 - criar o objeto do tiro
-5.3 = fazendo o tiro ir para baixo
+5.1 - importando sprite do tiro OK
+5.2 - criar o objeto do tiro OK 
+5.3 = fazendo o tiro ir para baixo OK
+

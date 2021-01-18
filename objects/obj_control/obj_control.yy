@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spr_tiro_inimigo1",
-    "path": "sprites/spr_tiro_inimigo1/spr_tiro_inimigo1.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -21,16 +18,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"parent":{"name":"obj_tiro_inimigo1","path":"objects/obj_tiro_inimigo1/obj_tiro_inimigo1.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":82,"eventType":9,"collisionObjectId":null,"parent":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Inimigo",
-    "path": "folders/Objects/Inimigo.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_tiro_inimigo1",
+  "name": "obj_control",
   "tags": [],
   "resourceType": "GMObject",
 }
