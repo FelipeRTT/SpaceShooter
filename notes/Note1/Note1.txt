@@ -52,6 +52,8 @@
 
 9 - Pequenos ajustes
 9.1 fazer o inimigo ser destruido ao sair da tela OK
+9.2 - deixando o background mais legal OK
+9.3 - deixando o nosso tiro mais bonito
 	
-
+10- criando o background do nosso jogo 
 
