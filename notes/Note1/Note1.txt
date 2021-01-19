@@ -50,4 +50,8 @@
 	8.2.4 - fazer a explosao se destruir ao final da animação OK 
 	
 
+9 - Pequenos ajustes
+9.1 fazer o inimigo ser destruido ao sair da tela OK
+	
+
 
