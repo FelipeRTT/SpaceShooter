@@ -29,3 +29,4 @@
 5.4 = atirando de fato OK
 5.5 = efeito no tirro 
 
+(Criação de metodo)
