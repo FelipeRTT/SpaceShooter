@@ -4,3 +4,7 @@
 
 instance_destroy();
 //faznedo a bala sumir apos acertar o inimigo
+
+
+//FAZENDO ELE DESTRUIR O INIMIGO Q COLIDIR
+instance_destroy(other);

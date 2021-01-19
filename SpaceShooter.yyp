@@ -1,8 +1,10 @@
 {
   "resources": [
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
+    {"id":{"name":"obj_explosao","path":"objects/obj_explosao/obj_explosao.yy",},"order":2,},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},"order":0,},
     {"id":{"name":"obj_inimigo1","path":"objects/obj_inimigo1/obj_inimigo1.yy",},"order":0,},
+    {"id":{"name":"spr_explosao","path":"sprites/spr_explosao/spr_explosao.yy",},"order":1,},
     {"id":{"name":"spr_tiro_player","path":"sprites/spr_tiro_player/spr_tiro_player.yy",},"order":0,},
     {"id":{"name":"spr_inimigo1","path":"sprites/spr_inimigo1/spr_inimigo1.yy",},"order":0,},
     {"id":{"name":"spr_tiro_inimigo1","path":"sprites/spr_tiro_inimigo1/spr_tiro_inimigo1.yy",},"order":1,},

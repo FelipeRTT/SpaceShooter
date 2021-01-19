@@ -33,4 +33,14 @@
 
 6- fazendo o tirro do player acertar o inimigo 
 6.1 - se destruir ao acertar o inimigo OK
-6.2 - criar o impacto do tiro do player
+6.2 - criar o impacto do tiro do player OK
+6.3 - fazendo o impacto do tiro desaparecer no final da animação OK
+6.4 - fazer o tiro nao criar o impacto quando sai da room OK
+
+
+7- fazendo o tiro do inimigo acertar o player e ser destruido
+7.1- destruindo o tiro do inimigo ao sair da room OK
+
+8- destruindo o inimigo quando ele levar um tiro 
+
+

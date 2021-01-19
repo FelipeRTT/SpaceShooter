@@ -1,4 +1,4 @@
-/// @description testando se foi destruido
+/// @description fazendo animação
 // You can write your code in this editor
  // show_debug_message("destruido")
 // criando o impacto do tiro de quando o objeto se destruir

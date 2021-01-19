@@ -1,4 +1,4 @@
-/// @description Insert description here
+/// @description Criando obj tiro
 // You can write your code in this editor
 vspeed = 11;
 
