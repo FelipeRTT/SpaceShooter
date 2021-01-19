@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-//criando o tirro
+//criando o tirro, fazendo referencia ao create
 atirando();
 //reiniciar o alarme pois sem isso ele atira somente uma vez
 alarm[0] = room_speed * random_range(1,3);

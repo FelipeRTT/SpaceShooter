@@ -30,3 +30,7 @@
 5.5 = efeito no tirro 
 
 (Criação de metodo)
+
+6- fazendo o tirro do player acertar o inimigo 
+6.1 - se destruir ao acertar o inimigo OK
+6.2 - criar o impacto do tiro do player
