@@ -38,9 +38,16 @@
 6.4 - fazer o tiro nao criar o impacto quando sai da room OK
 
 
-7- fazendo o tiro do inimigo acertar o player e ser destruido
+7- fazendo o tiro do inimigo acertar o player e ser destruido OK
 7.1- destruindo o tiro do inimigo ao sair da room OK
 
-8- destruindo o inimigo quando ele levar um tiro 
+8- destruindo o inimigo quando ele levar um tiro  OK
+8.1 - fazer o tiro do player tambem destruir o inimigo que colidir com ele OK
+8.2 - fazer com que ao ser destruido o inimigo  crie uma explosao OK
+	8.2.1 - criar a sprite da explosao OK
+	8.2.2 - criar o obj da explosao OK
+	8.2.3 - fazer o inimigo instanciar a explosao ao morer OK 
+	8.2.4 - fazer a explosao se destruir ao final da animação OK 
+	
 
 
