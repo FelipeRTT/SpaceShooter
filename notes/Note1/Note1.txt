@@ -62,6 +62,12 @@
 	9.3.6 criar a variavel cores para ele mudar de cor OK
 	9.3.7 - usar o lerp para diminuir o tamanho OK
 9.4 - deixando as explosoes mais bonitas
+	9.4.1 - criar o draw event OK
+	9.4.2 - se desenhar OK
+	9.4.3 - me desenhar um pouco maior OK
+	9.4.4 - alterar como a gpu processa a mistura de corres OK
+	9.4.5 - criar a variavel de cores OK
+	
 	
 10- criando o background do nosso jogo 
 
