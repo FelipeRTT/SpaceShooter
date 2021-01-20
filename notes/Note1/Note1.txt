@@ -54,6 +54,14 @@
 9.1 fazer o inimigo ser destruido ao sair da tela OK
 9.2 - deixando o background mais legal OK
 9.3 - deixando o nosso tiro mais bonito
+	9.3.1- criar a sprite do brilho OK
+	9.3.2- criar o draw OK
+	9.3.3 - se desenhar OK 
+	9.3.4 - desenhar o brilho OK
+	9.3.5 - alterar como a gpu processa a mistura de imagens OK
+	9.3.6 criar a variavel cores para ele mudar de cor OK
+	9.3.7 - usar o lerp para diminuir o tamanho OK
+9.4 - deixando as explosoes mais bonitas
 	
 10- criando o background do nosso jogo 
 

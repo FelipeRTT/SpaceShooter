@@ -4,6 +4,7 @@
 //definindo um valor para velocidade
 velocidade = 10;
 
+
 //criando a função de tirro 
 atirando = function(){
 	var fire = keyboard_check_pressed(vk_space);
