@@ -89,7 +89,12 @@
 	12.3 - fazendo ele ser filho do tiro 1 OK
 	12.4 - iniciar indo na direção do player OK
 	12.5 - apontando para a direção do player	OK
-		12.5.1 fazendo ela ganhar +90 graus OK
+		12.5.1 - fazendo ela ganhar +90 graus OK
+	12.6 - indo para a direção do player apenas se ele existir OK
+	
+13 - criação procedural dos inimigos
+
+14 - criando o objeto controlador do jogo
 	
 	
 
