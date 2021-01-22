@@ -7,4 +7,9 @@
 if(y > room_height+100){
 	instance_destroy(id, false) //id do objeto q saiu, e nao vai realizar o evento do destroy
 show_debug_message("alien destruido");
+//fazendo com que mostre a quantia de alienDestruido, 
+//tem que acessar o obj.control pois a variavel foi criada la
+
+obj_control.alienDestruido +=1;
+
 }
