@@ -79,7 +79,14 @@
 		11.4.1 - checando de que lado da room eu estou OK
 		11.4.2 - falando se ele esta na esquerda e na direita OK
 	11.5 - fazendo ele mudar de posiçao se ele ja passou de 1/3 da tela
-	11.6 - quero q ele faça isso apenas uma vez
+	11.6 - quero q ele faça isso apenas uma vez OK
+	11.7 - fazendo o inimigo criar o proprio tirro
+		11.7.1 - fazer o inimigo2 usar o tiro do inimigo 2 
+
+12 - criando o segundo tiro do inimigo
+	12.1 - importar sprite
+	12.2 - criar o objeto 
+	12.3 - fazendo ele ser filho do tiro 1
 	
 	
 
