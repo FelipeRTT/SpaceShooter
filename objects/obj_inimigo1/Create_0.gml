@@ -9,5 +9,5 @@ instance_create_layer(x -3,y + sprite_height/3,"tiros",obj_tiro_inimigo1);//cria
 }
 }
 
-//iniciando alarme com tempo 1 e 3 sec
+//iniciando alarme com tempo 1 e 3 sec para o tiro
 alarm[0] = random_range(1,3)*room_speed;

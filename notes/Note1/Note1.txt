@@ -69,5 +69,17 @@
 	9.4.5 - criar a variavel de cores OK
 	
 	
-10- criando o background do nosso jogo 
+10- criando o background do nosso jogo  OK
+
+11 - criando o segundo inimigo
+	11.1 - importando a sprite dele OK
+	11.2 - criando o obj dele OK
+	11.3 - fazendo o inimigo 2 herdar comportamentos do inimigo 1 OK
+	11.4 - fazendo ele mudar de direçao ao chegar no meio da room 
+		11.4.1 - checando de que lado da room eu estou OK
+		11.4.2 - falando se ele esta na esquerda e na direita OK
+	11.5 - fazendo ele mudar de posiçao se ele ja passou de 1/3 da tela
+	11.6 - quero q ele faça isso apenas uma vez
+	
+	
 
